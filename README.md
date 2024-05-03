@@ -1,2 +1,8 @@
-# Implementation of a echo server using Java Threads
+# Caso 3 - Infraestructura computacional
+
+## Integrantes
+
+- 
+- 
+- 
 
